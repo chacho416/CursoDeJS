@@ -60,3 +60,7 @@ Este proyecto se distribuye bajo la licencia MIT. Puedes adaptar y reutilizar el
 ## Contacto
 
 Si tienes preguntas o sugerencias, abre un issue o contacta al autor del curso.
+
+## Clonar
+
+git clone https://github.com/michel-lopez-franco/CursoDeJS.git
